@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode", // Prettier - Code formatter
+    // "dbaeumer.vscode-eslint", // ESLint
+    "eamodio.gitlens", // GitLens — Git supercharged
+    "streetsidesoftware.code-spell-checker" // Code Spell Checker
+  ]
+}
